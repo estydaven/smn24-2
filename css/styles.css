@@ -430,7 +430,7 @@ body {
     padding-bottom: 10px;
 }
 .preview__block_second {
-    width: calc(100% / 4 - 15px);
+    width: calc(100% / 5 - 15px);
 }
 .article {
     margin-bottom: 30px;
